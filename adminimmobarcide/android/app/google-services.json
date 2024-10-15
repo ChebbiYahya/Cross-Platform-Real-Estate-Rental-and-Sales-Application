@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "18378059737",
+    "project_id": "immobarcide-f0e0e",
+    "storage_bucket": "immobarcide-f0e0e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:18378059737:android:d66d73dc18cfafa65d33c8",
+        "android_client_info": {
+          "package_name": "com.example.adminimmobarcide"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "18378059737-4ggaesbj5hn2puei5tg3glmctpnog34c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxJH1pjZ61veblAx_QPxEkAT8vESmYk1Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "18378059737-4ggaesbj5hn2puei5tg3glmctpnog34c.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "18378059737-qlpn7dnb588l78e39jgq9625bh4vo7ap.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "GGGG"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
